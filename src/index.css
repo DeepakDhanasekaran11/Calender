@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.event-pill {
+  @apply text-xs rounded px-1 py-0.5 overflow-hidden whitespace-nowrap text-white;
+}
+.event-pill span {
+  display: block;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}

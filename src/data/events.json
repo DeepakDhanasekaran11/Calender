@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "date": "2025-11-04",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "color": "#f59e0b",
+    "title": "Diwali Puja"
+  },
+  {
+    "id": 2,
+    "date": "2025-12-25",
+    "startTime": "18:00",
+    "endTime": "23:00",
+    "color": "#ef4444",
+    "title": "Christmas Dinner"
+  },
+  {
+    "id": 3,
+    "date": "2025-01-01",
+    "startTime": "00:00",
+    "endTime": "01:00",
+    "color": "#6366f1",
+    "title": "New Year Countdown"
+  },
+  {
+    "id": 4,
+    "date": "2025-08-15",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "color": "#10b981",
+    "title": "Independence Day Flag Hoisting"
+  }
+]
